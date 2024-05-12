@@ -1,0 +1,1 @@
+data class User(val name : String = "Руслан", var count : Int = 0)
